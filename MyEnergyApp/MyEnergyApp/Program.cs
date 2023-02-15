@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            EnergyBudget energy = new();
+            foreach (var item in energy.BudgetPoints)
+            {
+                Console.WriteLine(item.Key + ": " + item.Value.Name + " - " + item.Value.Value + " points");
+            }
         }
     }
 }
