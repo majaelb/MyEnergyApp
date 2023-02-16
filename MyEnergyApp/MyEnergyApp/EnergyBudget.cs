@@ -10,7 +10,7 @@ namespace MyEnergyApp
     {
         public string? Name { get; set; }
         public int Value { get; set; }
-        public Dictionary<int, EnergyBudget> BudgetPoints { get; set; }
+        public Dictionary<int, EnergyBudget>? BudgetPoints { get; set; }
 
         private static readonly int _getOutOfBed = 1;
         private static readonly int _getDressed = 1;
@@ -32,9 +32,8 @@ namespace MyEnergyApp
         public EnergyBudget()
         {
             BudgetPoints = GetBudgetPoints();
-
         }
-        public EnergyBudget(string name, int value)
+        public EnergyBudget(string? name, int value)
         {
             Name = name;
             Value = value;
