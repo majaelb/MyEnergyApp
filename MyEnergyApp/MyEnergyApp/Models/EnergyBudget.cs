@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyEnergyApp
+namespace MyEnergyApp.Models
 {
     internal class EnergyBudget
     {
@@ -39,7 +39,7 @@ namespace MyEnergyApp
             Value = value;
         }
         private static Dictionary<int, EnergyBudget> GetBudgetPoints()
-        {          
+        {
             Dictionary<int, EnergyBudget> budgetPoints = new()
             {
                 {1, new EnergyBudget("Get out of bed", _getOutOfBed) },

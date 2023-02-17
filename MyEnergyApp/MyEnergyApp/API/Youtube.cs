@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 using Google.Apis.Services;
 using Google.Apis.Util;
 
-namespace MyEnergyApp
+namespace MyEnergyApp.API
 {
     internal class Youtube
-    {       
+    {
         public static async Task YouTubeService(string search)
         {
             var service = new YouTubeService(new BaseClientService.Initializer()
@@ -21,6 +21,8 @@ namespace MyEnergyApp
             var searchListRequest = service.Search.List("snippet");
             searchListRequest.Q = search;
             searchListRequest.RegionCode = "se";
+            searchListRequest.MaxResults = 10;
+
 
             var results = await searchListRequest.ExecuteAsync();
 

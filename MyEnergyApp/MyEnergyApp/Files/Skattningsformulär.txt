@@ -1,0 +1,192 @@
+Vi är intresserade av ditt nuvarande tillstånd, d.v.s. ungefär hur du har mått den senaste månaden.
+När du ska jämföra med hur det var tidigare ska du göra det med hur det var innan du blev sjuk/skadades.
+I tabellen för varje fråga finns fyra påståenden som beskriver Inga (0), Lätta (1), Medelsvåra (2) och Svåra
+besvär (3).
+Vi vill att du markerar den siffra som står bredvid det påstående som bäst beskriver dina besvär.
+Om du tycker att du hamnar mellan två påståenden finns det även siffror som motsvarar detta.
+|
+[1] TRÖTTHET
+Har du känt dig trött den senaste månaden? Det spelar ingen roll om det är fysisk (muskulär trötthet)
+eller trött i huvudet. Om det nyligen hänt något ovanligt (t.ex. en olycka eller tillfällig sjukdom) skall du
+försöka bortse från det.
+
+0 Jag har inte alls känt mig trött (aldrig onormalt trött, inte behövt vila mer än vanligt).
+0.5
+1 Jag har varit trött flera gånger per dag, men jag blir klart piggare av att vila.
+1.5
+2 Jag har känt mig trött större delen av dagen, och vila har ingen eller liten effekt.
+2.5
+3 Jag har känt mig trött all vaken tid, och vila har ingen effekt.
+|
+[2] OFÖRETAGSAMHET
+Har du svårt att sätta igång med saker? Känner du dig oföretagsam och tar det emot när du skall sätta
+igång med något, oavsett om det är en ny uppgift eller om det gäller saker du gör varje dag.
+0 Jag har inga svårigheter med att ta itu med saker.
+0.5
+1 Jag har svårare än tidigare för att sätta igång med aktiviteter. Jag skjuter gärna på det.
+1.5
+2 Det krävs en stor ansträngning för att jag skall ta itu med saker. Detta gäller även vardagliga ting
+som att stiga ur sängen, tvätta mig, äta.
+2.5
+3 Jag kan inte få de enklaste vardagliga saker (äta, klä på mig) gjorda. Jag måste ha hjälp med allt.
+|
+[3] MENTAL UTTRÖTTBARHET
+Blir du snabbt trött ”i huvudet” när hjärnan måste arbeta? Blir du mentalt trött av saker som att läsa,
+titta på TV eller delta i samtal med flera personer. Måste du ta pauser eller byta aktivitet?
+
+0 Jag kan hålla på lika länge som vanligt. Min uthållighet för ”hjärnarbete” har inte minskat.
+0.5
+1 Jag blir lättare trött men kan utföra lika mycket ”hjärnarbete” som är normalt för mig.
+1.5
+2 Jag blir lätt trött och måste ta pauser eller göra något annat oftare än vanligt.
+2.5
+3 Jag har så lätt för att bli trött att jag inte kan göra någonting, eller måste avbryta alla aktiviteter
+efter en kort stund (ca 5 minuter).
+|
+[4] MENTAL ÅTERHÄMTNING
+Hur lång tid tar det för dig att återhämta dig efter att du har arbetat tills du fullständigt tappat förmågan
+att kunna koncentrera dig på det du gör.
+
+0 Jag behöver mindre än en timmes vila för att kunna fortsätta arbeta.
+0.5
+1 Jag måste vila mer än en timme, men behöver inte en natts sömn.
+1.5
+2 Jag behöver en natts sömn för att kunna fortsätta arbeta.
+2.5
+3 Jag behöver flera dagars vila för att återhämta mig.
+|
+[5] KONCENTRATIONSSVÅRIGHETER
+Har du svårt att samla tankarna och koncentrera dig?
+
+0 Jag har lika lätt som vanligt för att samla tankarna.
+0.5
+1 Jag kan ibland tappa bort mig, t.ex. när jag läser eller tittar på TV.
+1.5
+2 Jag har så svårt att koncentrera mig så att det besvärar mig när jag t.ex. läser en dagstidning eller
+deltar i samtal med flera personer.
+2.5
+3 Jag har alltid så svårt att koncentrera mig att det är nästan omöjligt att göra någonting.
+|
+[6] MINNESSTÖRNINGAR
+Glömmer du oftare än tidigare och behöver du minneslappar, eller måste leta mer hemma eller på
+arbetet?
+
+0 Jag har inga problem med minnet.
+0.5
+1 Jag glömmer saker lite oftare än vad jag tycker att jag borde, men kan klara mig om jag använder
+minneslappar.
+1.5
+2 Mitt dåliga minne orsakar regelbundet besvär (t.ex. genom att jag glömmer viktiga möten eller
+spisen).
+2.5
+3 Jag kan nästan inte komma ihåg någonting.
+|
+[7] TANKETRÖGHET
+Känner du dig trög eller långsam i tankearbetet? Detta gäller känslan av att det tar ovanligt lång tid för
+att avsluta en tankegång eller för att lösa en uppgift som kräver tankearbete.
+
+0 Jag känner mig inte trög eller långsam i mina tankar vid ”hjärnarbete”.
+0.5
+1 Jag kan känna en viss tröghet någon eller några gånger om dagen vid krävande tankearbete.
+1.5
+2 Jag känner mig ofta trög och långsam i tanken även vid vardagliga sysslor t.ex. i samtal med en
+person eller vid läsning av dagstidningen.
+2.5
+3 Jag känner mig alltid väldigt trög och långsam i tanken.
+|
+[8] STRESSKÄNSLIGHET
+Har du haft svårt att hantera stress, alltså att göra många saker samtidigt och under tidspress?
+
+0 Jag klarar stress lika bra som vanligt.
+0.5
+1 Jag är mer lättstressad, men bara i krävande situationer som jag tidigare klarade av.
+1.5
+2 Jag blir stressad lättare än vanligt. Det krävs mindre stressade situationer än tidigare för att jag
+skall känna av det.
+2.5
+3 Jag har väldigt lätt för att bli stressad. Så fort som situationen är ovan eller påfrestande känner
+jag mig stressad.
+|
+[9] ÖKAD KÄNSLOSAMHET
+Har du ovanligt lätt för att gråta? Faller du lätt i gråt när du t.ex. ser en sorglig film eller när du pratar
+med dina anhöriga. Om det nyligen hänt något ovanligt (t.ex. en olycka eller sjukdom) skall du försöka
+bortse från det.
+
+0 Jag är inte mera känslig än tidigare.
+0.5
+1 Jag har en ökad känslighet som fortfarande är naturlig för mig. Jag har lätt att börja gråta eller
+får tårar i ögonen, men det händer bara för ting som engagerar mig starkt.
+1.5
+2 Min känslighet är besvärande eller generande. Det händer att jag börjar gråta även för saker jag
+egentligen inte bryr mig om. Jag försöker undvika vissa situationer på grund av detta.
+2.5
+3 Min känslighet orsakar stora problem för mig. Den stör min dagliga relation även i den nära
+familjen och gör att jag har svårt att klara mig utanför hemmet.
+|
+[10] IRRITABILITET ELLER ”KORT STUBIN”
+Är du ovanligt lättretad eller lättirriterad för saker som du tidigare tyckte var bagateller.
+
+0 Jag är inte mer lättretad eller irritabel än tidigare.
+0.5
+1 Jag blir lätt irriterad men det går fort över.
+1.5
+2 Jag blir väldigt fort irriterad för bagateller eller för saker som andra inte bryr sig om.
+2.5
+3 Jag reagerar med en intensiv ilska, eller känsla av raseri. Jag har svårt att behärska den.
+|
+[11] ÖVERKÄNSLIGHET FÖR LJUS
+Är du känslig för starkt ljus?
+
+0 Jag har ingen ökad känslighet för ljus.
+0.5
+1 Ibland kan jag ha svårt för starkt ljussom t.ex. solljus, reflexer från snö eller vatten eller glasrutor,
+starka lampor inomhus, men det kan lätt avhjälpas, t.ex. med solglasögon.
+1.5
+2 Jag är så känslig för ljus att jag föredrar att uträtta mina dagliga aktiviteter i dämpad belysning.
+Jag har svårt att gå ut utan solglasögon.
+2.5
+3 Min ljuskänslighet är så svår att jag inte kan gå ut utan solglasögon. Jag har ständigt neddragna
+gardiner (eller motsvarande).
+|
+[12] ÖVERKÄNSLIGHET FÖR LJUD
+Är du känslig för ljud?
+
+0 Jag besväras inte av någon ökad känslighet för ljud.
+0.5
+1 Ibland kan jag ha svårt för starka ljud (t.ex. musik, ljud från TV eller radion, eller plötsliga
+oväntade ljud), men det kan lätt åtgärdas genom att jag sänker ljudnivån. Min ljudkänslighet stör
+mig inte i mitt dagliga liv.
+1.5
+2 Jag är klart ljudöverkänslig. Jag måste undvika starka ljud eller dämpa (t ex med öronproppar)
+dem för att klara mitt dagliga liv.
+2.5
+3 Min ljudkänslighet är så svår att jag har svårt att klara mig hemma trots ljuddämpning.
+|
+[13] MINSKAD NATTSÖMN
+Sover du dåligt om nätterna? Om din nattsömn har ökat, skattas detta som ”0”. Om du tar
+sömntabletter och sover normalt, skattas detta som 0.
+
+0 Jag sover inte sämre än vanligt.
+0.5
+1 Jag har lite svårt att somna eller min sömn är kortare, ytligare eller oroligare än normalt.
+1.5
+2 Jag sover minst två timmar mindre än vanligt, och vaknar ofta på natten även utan yttre
+störningar.
+2.5
+3 Jag sover mindre än två till tre timmar per natt.
+|
+[14] ÖKAD SÖMN
+Sover du mer och/eller djupare än vanligt? Om din sömn har minskat markeras detta som ”0”.
+Obs! Räkna in även sömn dagtid.
+0 Jag sover inte mer än vanligt.
+0.5
+1 Jag sover längre eller tyngre, men inte så mycket som två timmar mer än vanligt, inklusive
+tupplurar.
+1.5
+2 Jag sover längre eller tyngre. Minst två timmar längre än vanligt, inklusive tupplurar.
+2.5
+3 Jag sover längre eller tyngre. Minst 4 timmar längre än vanligt och behöver dessutom sova
+dagtid.
+|
+Summera ihop fråga 1 till 14
+En summa på 10,5 poäng eller över visar problem med hjärntrötthet och bör utredas vidare.
