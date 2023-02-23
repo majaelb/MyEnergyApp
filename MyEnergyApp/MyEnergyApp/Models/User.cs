@@ -17,8 +17,7 @@ namespace MyEnergyApp.Models
         public string? PassWord { get; set; } //Kan man ha password kopplat till dokumentDB?
         public int DailyBudget { get; set; }
         public List<EnergyBudget>? DailyBudgetContent { get; set; }
-        public List<EnergyBudget>? ConsumedPointsPerDay { get; set; }
-        public Dictionary<DateTime, SelfEstimation>? SelfEstimationResults { get; set; }
+        
 
     }
 }

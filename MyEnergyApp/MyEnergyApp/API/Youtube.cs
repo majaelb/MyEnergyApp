@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Google.Apis.Services;
 using Google.Apis.Util;
+using Google.Apis.YouTube.v3.Data;
 
 namespace MyEnergyApp.API
 {
@@ -17,7 +18,8 @@ namespace MyEnergyApp.API
             {
                 ApiKey = "AIzaSyCDRz0y5NHzkhHaD6zxlNXa7beiK0lJ_ww"
             });
-
+            
+            
             var searchListRequest = service.Search.List("snippet");
             searchListRequest.Q = search;
             searchListRequest.RegionCode = "se";
@@ -32,6 +34,7 @@ namespace MyEnergyApp.API
             }
             foreach (var video in results.Items)
             {
+                
                 Console.WriteLine($"{video.Snippet.Title} - {video.Snippet.ChannelTitle} - (https://www.youtube.com/watch?v={video.Id.VideoId})");
                 Console.WriteLine();
             }

@@ -10,17 +10,6 @@ namespace MyEnergyApp.Logic
     {
         private static readonly string path = "../../../Files/";
 
-        internal static List<string> SplitFileToStringList(string fileName)
-        {
-            List<string> list = new();
-            string[] splitlist = File.ReadAllText(path + fileName).Split('|');
-            foreach (var item in splitlist)
-            {
-                list.Add(item);
-            }
-            return list;
-        }
-
         internal static async Task<List<string>> SplitFileToStringListAsync(string fileName)
         {
             List<string> list = new();

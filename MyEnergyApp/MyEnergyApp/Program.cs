@@ -1,6 +1,7 @@
 ﻿using Google.Apis.Services;
 using Google.Apis.Util;
 using Google.Apis.YouTube.v3;
+using MyEnergyApp.API;
 using MyEnergyApp.Logic;
 using MyEnergyApp.Models;
 
@@ -12,25 +13,32 @@ namespace MyEnergyApp
         //Användare i dokumentDB, hur?
         static async Task Main(string[] args)
         {
+            var youtube = new YouTubeService();
+            var uri = youtube.BaseUri;
+            Console.WriteLine(uri);
+
+
+            bool searching = true;
+            while (searching)
+            {
+                Console.Write("Vad vill du söka efter? ");
+                string? search = Console.ReadLine();
+                if (search == "STOP")
+                {
+                    searching = false;
+                }
+                else
+                {
+                    await Youtube.YouTubeService(search);
+                }
+            }
+
+
             EnergyBudget energy = new();
             foreach (var item in energy.BudgetPoints)
             {
                 Console.WriteLine(item.Key + ": " + item.Value.Name + " - " + item.Value.Value + " points");
             }
-            //bool searching = true;
-            //while (searching)
-            //{
-            //    Console.Write("Vad vill du söka efter? ");
-            //    string? search = Console.ReadLine();
-            //    if (search == "STOP")
-            //    {
-            //        searching = false;
-            //    }
-            //    else
-            //    {
-            //        await Youtube.YouTubeService(search);
-            //    }
-            //}
 
             SelfEstimation selfEstimation = new()
             {
@@ -49,8 +57,6 @@ namespace MyEnergyApp
                 EnergyTips = await FileManager.SplitFileToStringListAsync("Energitips.txt"),
                 Links = await FileManager.SplitFileToStringListAsync("Länkar.txt")
             };
-
-
 
             foreach (var link in linksTips.Links)
             {
